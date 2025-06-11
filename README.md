@@ -2,7 +2,8 @@
 
 A modern, dark-themed portfolio website built with React, TypeScript, and Supabase. Features a complete admin panel for content management, contact form, and file upload capabilities.
 
-![Portfolio Preview](https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200)
+🔗 Live Preview
+👉 View the Live Site [Portfolio Preview](https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## 🚀 Features
 
@@ -172,7 +173,7 @@ The website is fully responsive with breakpoints:
 npm run build
 ```
 
-### Deploy to Netlify/Vercel
+### Deploy to Vercel
 
 1. Connect your repository
 2. Set environment variables
@@ -237,5 +238,3 @@ For support or questions:
 - **Pexels** for stock images
 
 ---
-
-**Built with ❤️ by Nikhil Kumar**
