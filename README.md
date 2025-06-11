@@ -3,7 +3,7 @@
 A modern, dark-themed portfolio website built with React, TypeScript, and Supabase. Features a complete admin panel for content management, contact form, and file upload capabilities.
 
 🔗 Live Preview
-👉 View the Live Site [Portfolio Preview](https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200)
+👉[Portfolio Preview](https://portfolio-website-fgo5.vercel.app/)
 
 ## 🚀 Features
 
